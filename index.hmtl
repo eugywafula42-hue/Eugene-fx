@@ -4,8 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="theme-color" content="#070b18" />
-  <meta name="description" content="Eugykings — Join our community and follow us on Facebook and TikTok." />
-  <title>Eugykings | Join the Community</title>
+  <meta name="description" content="Eugine Fx (Derixassistbothub) — Join our community and follow us on Facebook and TikTok." />
+  <title>Eugine Fx (Derixassistbothub) | Join the Community</title>
 
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -278,17 +278,17 @@
   <div class="orb two"></div>
 
   <nav>
-    <a href="#" class="logo">Eugy<span>kings</span></a>
+    <a href="#" class="logo">Eugine<span> Fx</span></a>
     <a href="#join" class="nav-btn">Join Us</a>
   </nav>
 
   <main>
     <section class="hero">
       <div class="hero-inner">
-        <div class="badge"><span class="dot"></span> Welcome to Eugykings</div>
-        <h1>Be Part of<br />Eugykings.</h1>
+        <div class="badge"><span class="dot"></span> Welcome to Eugine Fx (Derixassistbothub)</div>
+        <h1>Eugine Fx<br />(Derixassistbothub)</h1>
         <p>
-          Join our growing community, stay connected, and follow Eugykings
+          Join our growing community, stay connected, and follow Eugine Fx (Derixassistbothub)
           across social media for the latest content, updates and moments.
         </p>
 
@@ -304,7 +304,7 @@
 
     <section class="section" id="follow">
       <div class="section-title reveal">
-        <h2>Connect With Eugykings</h2>
+        <h2>Connect With Eugine Fx</h2>
         <p>Follow, join and never miss what is coming next.</p>
       </div>
 
@@ -313,7 +313,7 @@
           <div class="icon">👍</div>
           <h3>Follow on Facebook</h3>
           <p>
-            Connect with Eugykings on Facebook and keep up with posts,
+            Connect with Eugine Fx (Derixassistbothub) on Facebook and keep up with posts,
             announcements and community updates.
           </p>
           <a href="https://www.facebook.com/goose.347880" target="_blank" rel="noopener noreferrer">
@@ -325,7 +325,7 @@
           <div class="icon">♪</div>
           <h3>Follow on TikTok</h3>
           <p>
-            Follow the Eugykings TikTok profile for new videos, entertainment
+            Follow the Eugine Fx (Derixassistbothub) TikTok profile for new videos, entertainment
             and fresh content.
           </p>
           <a href="https://www.tiktok.com/@www.eugyfx.com?_r=1&_t=ZS-9AIUjsBNwqT"
@@ -339,8 +339,8 @@
     <section class="join reveal" id="join">
       <h2>Ready to Join?</h2>
       <p>
-        Become part of the Eugykings community. Choose your favorite platform
-        below and follow the official Eugykings pages.
+        Become part of the Eugine Fx (Derixassistbothub) community. Choose your favorite platform
+        below and follow the official pages.
       </p>
 
       <div class="actions">
@@ -353,7 +353,7 @@
   </main>
 
   <footer>
-    © <span id="year"></span> Eugykings. All rights reserved.
+    © <span id="year"></span> Eugine Fx (Derixassistbothub). All rights reserved.
   </footer>
 
   <script>
